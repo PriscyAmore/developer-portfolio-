@@ -4,9 +4,9 @@
 
 > A production-grade developer portfolio built with Svelte architecture principles, featuring a particle-based hero, interactive terminal, animated project showcase, and full dark/light theme support.
 
-**Live Demo:** https://priscyamore.github.io/developer-portfolio
+**Live Demo:** https://priscyamore.github.io/developer-portfolio-
 
-**GitHub:** https://github.com/PriscyAmore/developer-portfolio
+**GitHub:** https://github.com/PriscyAmore/developer-portfolio-
 
 ---
 
